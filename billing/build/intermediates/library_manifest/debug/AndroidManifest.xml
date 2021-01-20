@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  * Created by Ariful Jannat Arif on 11/26/20 2:17 PM
+  ~  * cse.ariful@gmail.com
+  ~  * No man is perfect so why codes? if anything went wrong please debug
+  ~  * Last modified 11/26/20 2:17 PM
+  ~  */
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.inverseai.billing"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+</manifest>

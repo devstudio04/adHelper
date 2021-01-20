@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="adProgress" type="id"/>
+    <item name="adFrameLayout" type="id"/>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_banner_test_format" translatable="false">IMG_16_9_APP_INSTALL#%s</string>
+    <string name="facebook_interstitial_test_format" translatable="false">VID_HD_16_9_15S_APP_INSTALL#%s</string>
+    <string name="facebook_native_test_format" translatable="false">VID_HD_16_9_15S_APP_INSTALL#%s</string>
+    <string name="facebook_rewarded_test_format" translatable="false">VID_HD_9_16_39S_APP_INSTALL#%s</string>
+</resources>

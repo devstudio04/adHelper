@@ -1,0 +1,15 @@
+<!--
+  ~ /*
+  ~  * Created by Ariful Jannat Arif on 12/3/20 8:35 AM
+  ~  * cse.ariful@gmail.com
+  ~  * No man is perfect so why codes? if anything went wrong please debug
+  ~  * Last modified 12/3/20 8:35 AM
+  ~  */
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.inverseai.adhelper">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>

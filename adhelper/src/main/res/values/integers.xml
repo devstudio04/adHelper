@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <integer name="maximum_try_loading_ad">3</integer>
+</resources>
